@@ -12,4 +12,5 @@ Projects are being published here over the coming weeks, grouped by theme.
 
 ## Contact
 
+- LinkedIn: [praveen-rvs](https://www.linkedin.com/in/praveen-rvs/)
 - Website: [dataobserve.io](https://dataobserve.io)
