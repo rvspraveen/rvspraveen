@@ -10,7 +10,11 @@ Full name: Rani Venkata Satya Praveen
 
 ## Showcase
 
-Projects are being published here over the coming weeks, grouped by theme.
+Independent, open-source projects grouped by theme. More are being added over the coming weeks.
+
+### Data quality & RAG reliability
+
+- **[corpusgate](https://github.com/rvspraveen/corpusgate)**: RAG chunk files plus a YAML data contract go in; a pass/fail report comes out, and a non-zero exit stops the ingest job or pull request before bad chunks reach the vector store. ([write-up](https://github.com/rvspraveen/corpusgate/blob/main/docs/writeup.md))
 
 ## Contact
 
