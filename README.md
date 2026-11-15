@@ -20,6 +20,10 @@ Independent, open-source projects grouped by theme. More are being added over th
 
 - **[rag-eval-gate](https://github.com/rvspraveen/rag-eval-gate)**: a RAG eval dataset, your app's outputs, and a saved baseline go in; a per-metric pass/fail report comes out, and the build fails when a metric drops past its allowed margin by more than noise.
 
+### Security & governance
+
+- **[governed-rag](https://github.com/rvspraveen/governed-rag)**: labelled Markdown documents, an access policy, and a user go in; cited answers drawn only from documents that user may read come out, and a leak eval in CI must stay at zero.
+
 ## Contact
 
 - LinkedIn: [praveen-rvs](https://www.linkedin.com/in/praveen-rvs/)
